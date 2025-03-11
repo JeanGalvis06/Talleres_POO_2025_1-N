@@ -16,7 +16,7 @@ public class Carro {
 
 
 
-    public static void showCounCart() {
+    public static void MortrarContadorCarro() {
         System.out.println("Carro: " + contadorCoches);
     }
 
