@@ -3,7 +3,7 @@ package Taller6_ModificadorStatic;
 public class Carro {
     private String marca;
     private String modelo;
-    public static int countCarro = 0;
+    public static int contadorCoches = 0;
 
     public Carro() {
     }
@@ -11,13 +11,13 @@ public class Carro {
     public Carro(String marca, String modelo) {
         this.marca = marca;
         this.modelo = modelo;
-        countCarro++; 
+        contadorCoches++; 
     }
 
 
 
     public static void showCounCart() {
-        System.out.println("Carro: " + countCarro);
+        System.out.println("Carro: " + contadorCoches);
     }
 
     public String getMarca() {
@@ -37,11 +37,11 @@ public class Carro {
     }
 
     public static int getCountCar() {
-        return countCarro;
+        return contadorCoches;
     }
 
     public static void setCountCar(int countCarro) {
-        Carro.countCarro = countCarro;
+        Carro.contadorCoches = countCarro;
     }
     
 }
