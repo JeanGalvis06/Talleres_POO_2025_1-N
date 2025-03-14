@@ -7,8 +7,8 @@ public class Main {
         // var vehiculo = new Vehiculo();
         // Moto moto = new Moto();
 
-        // vehicle.type = "carro";
-        // motorCycle.type = "moto";
+        // Vehiculo.type = "carro";
+        // Moto.type = "moto";
 
         producto.mostrarInformacion();
     }
