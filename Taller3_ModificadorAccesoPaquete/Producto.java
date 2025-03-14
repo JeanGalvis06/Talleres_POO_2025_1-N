@@ -15,7 +15,7 @@ public class Producto {
     }
 
    
-    void showInfo() {
+    void mostrarInformacion() {
         System.out.println("Nombre: " + nombre + " Precio: " + " Stock: " + stock);
     }
 

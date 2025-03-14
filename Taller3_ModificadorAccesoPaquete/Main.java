@@ -10,6 +10,6 @@ public class Main {
         // vehicle.type = "carro";
         // motorCycle.type = "moto";
 
-        producto.showInfo();
+        producto.mostrarInformacion();
     }
 }
