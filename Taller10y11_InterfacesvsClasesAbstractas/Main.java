@@ -1,4 +1,4 @@
-package Taller10_InterfacesvsClasesAbstractas;
+package Taller10y11_InterfacesvsClasesAbstractas;
 
 public class Main {
     public static void main(String[] args) {

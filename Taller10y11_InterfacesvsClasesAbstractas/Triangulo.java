@@ -1,4 +1,4 @@
-package Taller10_InterfacesvsClasesAbstractas;
+package Taller10y11_InterfacesvsClasesAbstractas;
 
 class Triangulo extends Figura {
     private double base;
