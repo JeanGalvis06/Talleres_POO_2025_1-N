@@ -1,4 +1,4 @@
-package Taller3_ModificadorAccesoPaquete;
+package Taller3y3_1_ModificadorAccesoPaquete;
 
 public class Main {
 

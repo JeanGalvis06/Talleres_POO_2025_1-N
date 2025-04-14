@@ -1,4 +1,4 @@
-package Taller8_HerenciaSimple;
+package Taller8y8_1_HerenciaSimple;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Taller8_HerenciaSimple;
+package Taller8y8_1_HerenciaSimple;
 
 class Empleado {
     private String nombre;
